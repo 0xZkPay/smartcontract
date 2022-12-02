@@ -4,7 +4,7 @@ Smart Contract for tracking zkPay users loyalty points using NFT
 
 Deployed on:
 
-1. Polygon Mumbai Network - 0x19064239B6592F01deC4EC6C9E5976136d51c33B
+1. Polygon Mumbai Network - 0x19064239B6592F01deC4EC6C9E5976136d51c33B - https://thegraph.com/hosted-service/subgraph/0xzkpay/zkpay-mumbai
 2. 
 
 ## Installation
