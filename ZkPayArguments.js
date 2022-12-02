@@ -1,0 +1,1 @@
+module.exports = ["ZkPay", "ZKPAY"];
